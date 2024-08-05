@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unit Tests\\EMR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\patientregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:patientregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\services\\ipatientregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:services\\ipatientregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\domain\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:domain\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C911D373-4D24-4620-BEF1-D7893C40894C}|..\\EMR.Tests\\EMR.Tests.csproj|f:\\unit tests\\emr.tests\\appointmentschedulertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\appointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:appointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:domain\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C911D373-4D24-4620-BEF1-D7893C40894C}|..\\EMR.Tests\\EMR.Tests.csproj|f:\\unit tests\\emr.tests\\bmicalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\services\\iappointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:services\\iappointmentscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|f:\\unit tests\\emr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FA6375-84C6-4B28-8509-6BE65800FCAF}|EMR.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Domain\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Domain\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Domain\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:19:54.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientRegistry.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\PatientRegistry.cs",
+              "RelativeDocumentMoniker": "PatientRegistry.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\PatientRegistry.cs",
+              "RelativeToolTip": "PatientRegistry.cs",
+              "ViewState": "AQIAAAQAAABAZmZmZuYwwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T14:18:58.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Domain\\Patient.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Domain\\Patient.cs",
+              "RelativeToolTip": "Domain\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:44:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Domain\\Appointment.cs",
+              "RelativeDocumentMoniker": "Domain\\Appointment.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Domain\\Appointment.cs",
+              "RelativeToolTip": "Domain\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:44:30.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentSchedulerTests.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR.Tests\\AppointmentSchedulerTests.cs",
+              "RelativeDocumentMoniker": "..\\EMR.Tests\\AppointmentSchedulerTests.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR.Tests\\AppointmentSchedulerTests.cs",
+              "RelativeToolTip": "..\\EMR.Tests\\AppointmentSchedulerTests.cs",
+              "ViewState": "AQIAAAcAAABAMjMzMzMfwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:30:09.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPatientRegistry.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Services\\IPatientRegistry.cs",
+              "RelativeDocumentMoniker": "Services\\IPatientRegistry.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Services\\IPatientRegistry.cs",
+              "RelativeToolTip": "Services\\IPatientRegistry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:10:30.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAppointmentScheduler.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Services\\IAppointmentScheduler.cs",
+              "RelativeDocumentMoniker": "Services\\IAppointmentScheduler.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Services\\IAppointmentScheduler.cs",
+              "RelativeToolTip": "Services\\IAppointmentScheduler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:09:19.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentScheduler.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\AppointmentScheduler.cs",
+              "RelativeDocumentMoniker": "AppointmentScheduler.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\AppointmentScheduler.cs",
+              "RelativeToolTip": "AppointmentScheduler.cs",
+              "ViewState": "AQIAAAcAAAAALzMzMzMLwBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T13:08:34.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BMICalculatorTests.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR.Tests\\BMICalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\EMR.Tests\\BMICalculatorTests.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR.Tests\\BMICalculatorTests.cs",
+              "RelativeToolTip": "..\\EMR.Tests\\BMICalculatorTests.cs",
+              "ViewState": "AQIAAAMAAAAANjMzMzPjvwkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:26:11.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BMICalculator.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\BMICalculator.cs",
+              "RelativeDocumentMoniker": "BMICalculator.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\BMICalculator.cs",
+              "RelativeToolTip": "BMICalculator.cs",
+              "ViewState": "AQIAAAAAAAAAMzMzMzMbwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:22:06.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\EMR\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Unit Tests\\EMR\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T12:20:05.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

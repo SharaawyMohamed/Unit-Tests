@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Unit Tests\\SecondVersionOfTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B387360A-E13A-456B-B304-43641AD600F3}|..\\SecondVersionOfTesting.Tests\\SecondVersionOfTesting.Tests.csproj|f:\\unit tests\\secondversionoftesting.tests\\weightcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\data\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:data\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B387360A-E13A-456B-B304-43641AD600F3}|..\\SecondVersionOfTesting.Tests\\SecondVersionOfTesting.Tests.csproj|f:\\unit tests\\secondversionoftesting.tests\\integrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B387360A-E13A-456B-B304-43641AD600F3}|..\\SecondVersionOfTesting.Tests\\SecondVersionOfTesting.Tests.csproj|f:\\unit tests\\secondversionoftesting.tests\\testinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B387360A-E13A-456B-B304-43641AD600F3}|..\\SecondVersionOfTesting.Tests\\SecondVersionOfTesting.Tests.csproj|f:\\unit tests\\secondversionoftesting.tests\\fakeweightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Unit Tests\\SecondVersionOfTesting\\Migrations\\20240804071757_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240804071757_CreateUserTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\weightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:weightcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|f:\\unit tests\\secondversionoftesting\\weightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238130C9-AA6A-4A81-B35B-60CC3AB4DEB3}|SecondVersionOfTesting.csproj|solutionrelative:weightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntegrationTests.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\IntegrationTests.cs",
+              "RelativeDocumentMoniker": "..\\SecondVersionOfTesting.Tests\\IntegrationTests.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\IntegrationTests.cs",
+              "RelativeToolTip": "..\\SecondVersionOfTesting.Tests\\IntegrationTests.cs",
+              "ViewState": "AQIAABgAAAAAYGZmZmYGwCEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:21:53.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\Data\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Data\\DataAccessLayer.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\Data\\DataAccessLayer.cs",
+              "RelativeToolTip": "Data\\DataAccessLayer.cs",
+              "ViewState": "AQIAAAoAAAAAamZmZmbwvw8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:08:56.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:05:41.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeightCalculatorTests.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\WeightCalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\SecondVersionOfTesting.Tests\\WeightCalculatorTests.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\WeightCalculatorTests.cs",
+              "RelativeToolTip": "..\\SecondVersionOfTesting.Tests\\WeightCalculatorTests.cs",
+              "ViewState": "AQIAAOAAAABgzczMzMw7wP0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:24:41.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FakeWeightRepository.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\FakeWeightRepository.cs",
+              "RelativeDocumentMoniker": "..\\SecondVersionOfTesting.Tests\\FakeWeightRepository.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\FakeWeightRepository.cs",
+              "RelativeToolTip": "..\\SecondVersionOfTesting.Tests\\FakeWeightRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:20:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestInitializer.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\TestInitializer.cs",
+              "RelativeDocumentMoniker": "..\\SecondVersionOfTesting.Tests\\TestInitializer.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting.Tests\\TestInitializer.cs",
+              "RelativeToolTip": "..\\SecondVersionOfTesting.Tests\\TestInitializer.cs",
+              "ViewState": "AQIAAAcAAADgzMzMzMwiwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:42:19.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240804071757_CreateUserTable.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\Migrations\\20240804071757_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240804071757_CreateUserTable.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\Migrations\\20240804071757_CreateUserTable.cs",
+              "RelativeToolTip": "Migrations\\20240804071757_CreateUserTable.cs",
+              "ViewState": "AQIAABsAAADAy8zMzMwmwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:17:58.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\UserDbContext.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwA8AAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T07:10:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "IDataRepository.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\IDataRepository.cs",
+              "RelativeToolTip": "IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:56:57.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeightRepository.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\WeightRepository.cs",
+              "RelativeDocumentMoniker": "WeightRepository.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\WeightRepository.cs",
+              "RelativeToolTip": "WeightRepository.cs",
+              "ViewState": "AQIAAAUAAADIyczMzMwYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T13:52:50.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeightCalculator.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\WeightCalculator.cs",
+              "RelativeDocumentMoniker": "WeightCalculator.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\WeightCalculator.cs",
+              "RelativeToolTip": "WeightCalculator.cs",
+              "ViewState": "AQIAABIAAABAmZmZmZkjwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:22:45.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Unit Tests\\SecondVersionOfTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Unit Tests\\SecondVersionOfTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:22:19.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

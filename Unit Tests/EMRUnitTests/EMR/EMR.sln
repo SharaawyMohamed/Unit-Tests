@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMR", "EMR.csproj", "{E6FA6375-84C6-4B28-8509-6BE65800FCAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMR.Tests", "..\EMR.Tests\EMR.Tests.csproj", "{C911D373-4D24-4620-BEF1-D7893C40894C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6FA6375-84C6-4B28-8509-6BE65800FCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FA6375-84C6-4B28-8509-6BE65800FCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FA6375-84C6-4B28-8509-6BE65800FCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FA6375-84C6-4B28-8509-6BE65800FCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C911D373-4D24-4620-BEF1-D7893C40894C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C911D373-4D24-4620-BEF1-D7893C40894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C911D373-4D24-4620-BEF1-D7893C40894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C911D373-4D24-4620-BEF1-D7893C40894C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637C78FC-88B5-42BF-B7DE-1D6BC1C40EA9}
+	EndGlobalSection
+EndGlobal

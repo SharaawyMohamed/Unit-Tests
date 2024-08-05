@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aq57pOEATHZg/T2pKe1ejBx+DjHhTwg8/OQ/c7Ny14mff2TjeQa29kdO++Vt6dBv/MTi3tgC5qoHMOdMJn8L4A==",
+  "success": true,
+  "projectFilePath": "F:\\Unit Tests\\EMR\\EMR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\fakeiteasy\\8.3.0\\fakeiteasy.8.3.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
